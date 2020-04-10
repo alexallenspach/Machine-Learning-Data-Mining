@@ -1,0 +1,2 @@
+# Data-Mining
+Data Mining refers to the process of examining large data repositories, including databases, data warehouses, Web, document collections, and data streams for the task of automatic discovery of patterns and knowledge from them. This repo covers an introduction to fundamental concepts, data warehousing, data pre-processing, association rules, cluster analysis, classification and prediction, frequent pattern mining, and advanced data mining applications in bioinformatics, computer vision, Web, text, big data, social networks, and computational journalism. 
