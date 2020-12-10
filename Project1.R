@@ -1,8 +1,5 @@
 #***************************************************************************************************
 # Student: Alex Allenspach
-# Professor: Oluwatosin Oluwadare
-# Due Date: April 1, 2020
-# Assignment: https://academics.uccs.edu/~ooluwada/courses/datamining/Projects/project1
 # Short Description: In this task, for each of the datasets above create a training dataset
 #                    and test dataset. Make the number of instances in training and test 
 #                    dataset be 80% and 20% of the original dataset. Implement a function
